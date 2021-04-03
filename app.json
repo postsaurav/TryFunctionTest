@@ -1,0 +1,26 @@
+{
+  "id": "d9eee838-4734-4945-ad69-810ff615b708",
+  "name": "TryFunctions",
+  "publisher": "Saurav Dhyani",
+  "version": "1.17.0.0",
+  "brief": "This Extension Demo What a Try Function Can / Cannot do.",
+  "description": "How to use Try Functions",
+  "privacyStatement": "https://www.sauravdhyani.com/",
+  "EULA": "https://www.sauravdhyani.com/",
+  "help": "https://www.sauravdhyani.com/",
+  "url": "https://www.sauravdhyani.com/",
+  "logo": "image/sauravdhyani.png",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 90149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://TryFunctions.com/help/",
+  "showMyCode": true,
+  "runtime": "6.0"
+}
